@@ -4,5 +4,11 @@ token.json
 .ipynb_checkpoints
 .DS_Store
 *.swp
+__pycache__/
 build
 md
+
+# generated data / exports (keep the numbering registry)
+*.xlsx
+*.csv
+!numbering.csv
